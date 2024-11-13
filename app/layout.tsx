@@ -58,7 +58,7 @@ export const metadata: Metadata = {
     title: "Showces - Professional Screen Recording",
     description:
       "Record your screen like never before. Capture, edit, and share with unprecedented ease.",
-    url: "https://showces.vercel.app", // Update with your actual domain
+    url: "https://showces.com", // Update with your actual domain
     siteName: "Showces",
     images: [
       {
@@ -81,7 +81,7 @@ export const metadata: Metadata = {
   icons: {
     icon: "/icon.png",
   },
-  metadataBase: new URL("https://showces.vercel.app"), // Update with your actual domain
+  metadataBase: new URL("https://showces.com"), // Update with your actual domain
 };
 
 export default function RootLayout({
